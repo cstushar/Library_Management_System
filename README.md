@@ -107,6 +107,6 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
-If you have any questions or feedback, please contact us at support@librarymanagementsystem.com.
+If you have any questions or feedback, please contact us at TheTusharA1@gmail.com.
 
 Thank you for using the Library Management System!
